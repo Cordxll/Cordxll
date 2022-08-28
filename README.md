@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Software engineer with a background in molecular biology. Trying to do challenging, meaningful work; looking to collaborate with those who aspire to do the same.
+Software engineer trainee with a background in molecular biology. Trying to do challenging, meaningful work; looking to collaborate with those who aspire to do the same.
 
 - 🔭 I’m currently training as a consultant in full stack development, including Java and related technologies (Maven, Spring, etc.), RDBMS, HTML, CSS and React
 
