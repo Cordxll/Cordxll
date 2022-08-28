@@ -5,6 +5,9 @@
 </a>
 <br />
 <br />
+__a little about me__
+<br />
+
 Software engineer trainee with a background in molecular biology. Trying to do challenging, meaningful work; looking to collaborate with those who aspire to do the same.
 
 - 🔭 I’m currently training as a consultant in full stack development, including Java and related technologies (Maven, Spring, etc.), RDBMS, HTML, CSS and React
@@ -16,6 +19,8 @@ Software engineer trainee with a background in molecular biology. Trying to do c
 
 
 
+<br />
+__my skills__
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,visualstudio,vscode,r,python,js,html,css,aws,docker,git,github,bash)](https://skillicons.dev)
