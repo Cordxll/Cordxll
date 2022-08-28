@@ -1,4 +1,8 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/cordell-browne-b51429184/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 
 <!--
 **Cordxll/Cordxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
