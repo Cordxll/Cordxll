@@ -5,8 +5,8 @@
 </a>
 <br />
 <br />
-__a little about me__
-<br />
+
+### about me
 
 Software engineer trainee with a background in molecular biology. Trying to do challenging, meaningful work; looking to collaborate with those who aspire to do the same.
 
@@ -16,16 +16,15 @@ Software engineer trainee with a background in molecular biology. Trying to do c
 
 - 🤔 I’m constantly looking for mentorship and advice in a wide range of fields.
 
-
-
-
 <br />
-__my skills__
-<br />
+
+### my skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,visualstudio,vscode,r,python,js,html,css,aws,docker,git,github,bash)](https://skillicons.dev)
 
 <br />
+
+### activity
 
 <a href="http://www.github.com/cordxll"><img src="https://github-readme-stats.vercel.app/api?username=cordxll&show_icons=true&hide=&count_private=true&include_all_commits=truue&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true&hide_title=true&border_color=88C0D0&border_radius=20" alt="GitHub Stats" /></a>
 
