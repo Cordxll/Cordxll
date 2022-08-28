@@ -1,5 +1,9 @@
 ### Hello World 👋
 
+<a href="https://www.linkedin.com/in/cordell-browne-b51429184/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 Software engineer trainee with a background in molecular biology. Trying to do challenging, meaningful work; looking to collaborate with those who aspire to do the same.
 
 - 🔭 I’m currently training as a consultant in full stack development, including Java and related technologies (Maven, Spring, etc.), RDBMS, HTML, CSS and React
@@ -8,11 +12,11 @@ Software engineer trainee with a background in molecular biology. Trying to do c
 
 - 🤔 I’m constantly looking for mentorship and advice in a wide range of fields.
 
-<a href="https://www.linkedin.com/in/cordell-browne-b51429184/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-[![My Skills](https://skillicons.dev/icons?i=java,maveng,mysql,visualstudio,vscode,r,python,js,rhtml,css,aws,docker,git,github,powershell)](https://skillicons.dev)
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=java,maven,mysql,visualstudio,vscode,r,python,js,html,css,aws,docker,git,github,powershell)](https://skillicons.dev)
 
 <a href="http://www.github.com/cordxll"><img src="https://github-readme-stats.vercel.app/api?username=cordxll&show_icons=true&hide=&count_private=true&include_all_commits=truue&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true&hide_title=true&border_color=88C0D0&border_radius=20" alt="GitHub Stats" /></a>
 
