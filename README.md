@@ -12,7 +12,11 @@ Software engineer trainee with a background in molecular biology. Trying to do c
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+[![My Skills](https://skillicons.dev/icons?i=java,jest,maven,spring,mysql,visualstudio,vscode,cs,dotnet,nodejs,js,react,redux,html,css,bootstrap,aws,docker,git,github,heroku,powershell)](https://skillicons.dev)
 
+<a href="http://www.github.com/cordxll"><img src="https://github-readme-stats.vercel.app/api?username=cordxll&show_icons=true&hide=&count_private=true&include_all_commits=truue&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true&hide_title=true&border_color=88C0D0&border_radius=20" alt="GitHub Stats" /></a>
+
+<a href="http://www.github.com/cordxll"><img src="https://activity-graph.herokuapp.com/graph?username=cordxll&bg_color=181824&color=ffffff&line=facc15&point=ffffff&area_color=3382ed&area=true&hide_border=true&hide_title=true&radius=45" alt="Commits Graph" /></a>
 <!--
 **Cordxll/Cordxll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
