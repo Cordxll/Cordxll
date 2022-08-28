@@ -20,7 +20,7 @@ Software engineer trainee with a background in molecular biology. Trying to do c
 
 ### my skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,r,js,maven,mysql,html,css,aws,docker,git,github,bash,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,r,js,maven,mysql,html,css,gcp,aws,docker,git,github,bash,vscode,idea)](https://skillicons.dev)
 
 <br />
 
