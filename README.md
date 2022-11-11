@@ -10,7 +10,7 @@
 
 Software engineer trainee with a background in molecular & computational biology. Trying to do challenging, meaningful work; looking to collaborate with those who aspire to do the same.
 
-[View My Portfolio](https://cordxll.github.io/portfolio/)
+[View My Portfolio IN PROGRESS](https://cordxll.github.io/portfolio/)
 
 - 🔭 I’m currently training as a consultant in full stack development, including Java and related technologies (Maven, Spring, etc.), RDBMS, HTML, CSS and React
 
