@@ -1,6 +1,6 @@
 
 
-### [(Portfolio)](https://cordxll.github.io/portfolio/) IN PROGRESS
+### [(Portfolio)](https://cordell.in) IN PROGRESS
 
 ### Activity
 
