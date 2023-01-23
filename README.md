@@ -1,6 +1,6 @@
 
 
-### [(Portfolio)](https://cordell.in) IN PROGRESS
+### [(Portfolio)](https://cordell.in)
 
 ### Activity
 
