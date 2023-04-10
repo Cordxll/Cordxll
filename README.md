@@ -1,9 +1,28 @@
 
+### Hello 👋, I am Cordell Browne.
 
-### [(Portfolio)](https://cordell.in)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/cordell-browne-b51429184">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto: cordellcbrowne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/cordellbrowne/account">
+    <img src="https://img.shields.io/badge/Kaggle-0088CC?style=for-the-badge&logo=kaggle&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://cordell.in">
+    <img src="https://img.shields.io/badge/Portfolio-CA4245?style=for-the-badge&logo=&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<br>
 
-### Activity
+__Who is Cordell 🤔__ 
+- 🧑🏿‍💻 Software engineer at private equity firm.
+- 🏦 Highly interested in development surronding finance and computational finance
+- 🧬 Highly interested in Molecular and Computational Biology
+- 🤖 ML & Mathamatics Hobbyist.
+- 😀 Open to colaborate!
 
-<a href="http://www.github.com/cordxll"><img src="https://github-readme-stats.vercel.app/api?username=cordxll&show_icons=true&hide=&count_private=true&include_all_commits=truue&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=181824&hide_border=true&show_icons=true&hide_title=true&border_color=88C0D0&border_radius=20" alt="GitHub Stats" /></a>
 
 
