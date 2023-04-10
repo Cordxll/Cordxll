@@ -22,7 +22,7 @@ __Who is Cordell 🤔__
 - 🏦 Highly interested in development surronding finance and computational finance
 - 🧬 Highly interested in Molecular and Computational Biology
 - 🤖 ML & Mathamatics Hobbyist.
-- 😀 Open to colaborate!
+- 😀 Open to collaborate!
 
 
 
