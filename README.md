@@ -8,7 +8,7 @@
   <a href="mailto: cordellcbrowne@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.kaggle.com/cordellbrowne/account">
+  <a href="https://www.kaggle.com/cordellbrowne">
     <img src="https://img.shields.io/badge/Kaggle-0088CC?style=for-the-badge&logo=kaggle&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://cordell.in">
