@@ -18,7 +18,7 @@
 <br>
 
 __Who is Cordell 🤔__ 
-- 🧑🏿‍💻 Software engineer at an investment management firm.
+- 🧑🏿‍💻 Software engineer at an investment firm.
 - 🏦 Highly interested in development surronding finance and computational finance
 - 🧬 Highly interested in Molecular and Computational Biology
 - 🤖 ML & Mathamatics Hobbyist.
